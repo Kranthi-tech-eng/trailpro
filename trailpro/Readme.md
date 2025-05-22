@@ -1,1 +1,1 @@
-#this is create for showcasing my project ideas
+# This is created for showcasing my project ideas
